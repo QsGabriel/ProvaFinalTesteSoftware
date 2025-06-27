@@ -1,6 +1,5 @@
 # ✅ Casos de Teste - SauceDemo
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Robot Framework](https://img.shields.io/badge/robot%20framework-automation-green)
 
